@@ -1,2 +1,2 @@
 # RN_07_Chat_App
-ReactNative Chat App
+ReactNative Chat App with Firebase
